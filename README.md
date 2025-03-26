@@ -6,7 +6,7 @@ Just a repository for all of my here-and-there C projects.
 Using a fixed-size buffer (character array of size 50), take in infinite user input strings, condense them to strings of appropriate length based on user-input, save them in a dynamically-sized array along with their size somehow.
 
 ## diag_traversal.c
-2/19/2025, STATUS: COMPLETE
+2/19/2025, STATUS: COMPLETE\n
 An algorithm to diagonally traverse a 2-dimensional array from southwest to northeast.
 
 ## J_Class_Test
